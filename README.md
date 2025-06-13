@@ -9,3 +9,6 @@ Tenho experiência com drones e satélites (CBERS4A, Sentinel 2A e B, entre outr
 
 ![1000165470](https://github.com/user-attachments/assets/6cf5dc0f-4622-45e3-8bac-be93beb6e038)
 » Mapa de pontos de coleta de espécies «
+
+
+theme: jekyll-theme-minimal
