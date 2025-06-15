@@ -28,6 +28,8 @@
 ### 📍**Mapa de Localização do Parque Ecológico de Araras, SP - Brasil.**
 ![pqecologico-min](https://github.com/user-attachments/assets/1a46fc91-ce30-48ff-91e1-608277a93b7c)
 
+### 🌳**Mapas de Cobertura Arbórea em Assentamento Rural para artigo.**
+![mapa_mudanca_cobertura-min](https://github.com/user-attachments/assets/d32e96dd-766b-457d-b8dc-33de9e2d3fdc)
 
 
 ---
