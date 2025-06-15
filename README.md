@@ -25,7 +25,7 @@
 ![lucas_1](https://github.com/user-attachments/assets/01020d54-7187-4214-86d7-a145d4701ac8)
 ![lucas_2](https://github.com/user-attachments/assets/42542629-1e3f-4e6e-8b18-fba654cabe1b)
 
-### 📍**Mapa de Localização do Parque Ecológico de Araras, SP - Brasil. **
+### 📍**Mapa de Localização do Parque Ecológico de Araras, SP - Brasil.**
 ![pqecologico-min](https://github.com/user-attachments/assets/1a46fc91-ce30-48ff-91e1-608277a93b7c)
 
 
