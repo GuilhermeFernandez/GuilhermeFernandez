@@ -35,8 +35,8 @@
 ## 📊 Dados Públicos que Trabalho  
 | Fonte | Aplicação |  
 |-------|-----------|  
-| **INPE** (CBERS4A)
-| **ESA** (SENTINEL 2A e B)
-| **NASA** (Landsat)
-| **MAPBIOMAS**
-| **IBGE**
+| **INPE** (CBERS4A) | Monitoramento Ambiental e Agrícola
+| **ESA** (SENTINEL 2A e B) | Monitoramento Ambiental e Agrícola
+| **NASA** (Landsat) | Monitoramento Ambiental e Agrícola
+| **MAPBIOMAS** | Monitoramento Uso e Cobertura do Solo 
+| **IBGE** | Dados geográficos, Monitoramento Urbano
