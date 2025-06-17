@@ -2,7 +2,7 @@
 
 🎓 **Biólogo (Último ano - UFSCar)** | 🛰 **Especialista em QGIS** | 🚁 **Operador de Drones**  
 
-📍 Araras-SP | ✉️ E-mail: guilhermehfernandez@outlook.com | 🌐 [Instagram]([www.instagram.com/cienciamapeada])  
+📍 Araras-SP | ✉️ E-mail: guilhermehfernandez@outlook.com | 🌐 [Instagram]([https://www.instagram.com/cienciamapeada])  
 
 ---
 
