@@ -18,8 +18,9 @@
 ### 🌳 **Mapa de pontos de coleta de espécies para artigo, Amazônia com DEM**  
 ![1000165470](https://github.com/user-attachments/assets/6cf5dc0f-4622-45e3-8bac-be93beb6e038)
 
-### 🌳 **Mapa de pontos de coleta para artigo, Brasil.**
-![mapa_Lucas](https://github.com/user-attachments/assets/c1603abb-9c0d-4313-be96-eee2a497faf2)
+### 🌳 **Mapa de Localização da área de estudo, destacando Tekoás e Sítios Arqueológicos Guaranis - Rio Grande do Sul.**
+![eikon_mapa_modificado (1) (1)](https://github.com/user-attachments/assets/b433ba21-a41b-4561-b259-40ead867c36c)
+
 
 ### 🌳**Mapas de Pontos de Coleta para Projeto de Mestrado, diferentes fitofisionomias da Caatinga.**
 ![lucas_1](https://github.com/user-attachments/assets/01020d54-7187-4214-86d7-a145d4701ac8)
