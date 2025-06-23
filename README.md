@@ -22,9 +22,8 @@
 ![eikon_mapa_modificado (1) (1)](https://github.com/user-attachments/assets/b433ba21-a41b-4561-b259-40ead867c36c)
 
 
-### 🌳**Mapas de Pontos de Coleta para Projeto de Mestrado, diferentes fitofisionomias da Caatinga.**
-![lucas_1](https://github.com/user-attachments/assets/01020d54-7187-4214-86d7-a145d4701ac8)
-![lucas_2](https://github.com/user-attachments/assets/42542629-1e3f-4e6e-8b18-fba654cabe1b)
+### 🌳 **Mapa de pontos de coleta para artigo, Brasil.**
+![mapa_Lucas](https://github.com/user-attachments/assets/c1603abb-9c0d-4313-be96-eee2a497faf2)
 
 ### 📍**Mapa de Localização do Parque Ecológico de Araras, SP - Brasil.**
 ![pqecologico-min](https://github.com/user-attachments/assets/1a46fc91-ce30-48ff-91e1-608277a93b7c)
