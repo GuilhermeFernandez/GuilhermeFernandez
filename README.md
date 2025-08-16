@@ -1,6 +1,6 @@
 # 🌿 Guilherme Fernandez | Biólogo & Especialista em QGIS  
 
-🎓 **Biólogo (Último ano - UFSCar)** | 🛰 **Especialista em QGIS** | 🚁 **Operador de Drones (MAVERICK e MATRICE 300)**  
+🎓 **Biólogo (Último ano - UFSCar)** | 🛰 **Entusiasta em QGIS** | 🚁 **Operador de Drones (MAVERICK e MATRICE 300)**  
 
 📍 Araras-SP | ✉️ E-mail: guilhermehfernandez@outlook.com | 🌐 [Instagram](https://www.instagram.com/cienciamapeada)  
 
@@ -9,7 +9,7 @@
 ## 🛠 Habilidades Técnicas  
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white)  
 ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?logo=google-earth&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) *(iniciante)*  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) *(estatística aplicada para análise de dados)*  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) *(estatística aplicada para análise de dados)*  
 
 ---
