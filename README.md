@@ -1,6 +1,6 @@
-# 🌿 Guilherme Fernandez | Biólogo & Especialista em QGIS  
+# 🌿 Guilherme Fernandez | Biólogo & Entusiasta em QGIS  
 
-🎓 **Biólogo (Último ano - UFSCar)** | 🛰 **Entusiasta em QGIS** | 🚁 **Operador de Drones (MAVERICK e MATRICE 300)**  
+🎓 **Biólogo (UFSCar)** | 🛰 **Entusiasta em QGIS** | 🚁 **Operador de Drones (MAVERICK e MATRICE 300)**  
 
 📍 Araras-SP | ✉️ E-mail: guilhermehfernandez@outlook.com | 🌐 [Instagram](https://www.instagram.com/cienciamapeada)  
 
